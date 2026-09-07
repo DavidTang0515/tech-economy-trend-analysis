@@ -2,6 +2,45 @@
 
 本文件记录仓库结构、报告内容和研究框架的重要更新。
 
+## 2026-09-07
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-07.md`，覆盖 OpenAI 首席科学家对前沿 AI 治理的公开判断、Atoms / Industrial AI 融资与 Robotaxi 平台化，以及澳大利亚争取大规模 AI 数据中心投资的待确认线索。
+- 新增科技趋势周报：`reports/2026/2026-09-07-week37.md`，沉淀高能力网络 AI 分级准入、企业 Agent 运行时治理、AI 基础设施完整系统栈、开放/主权 AI 与 Robotaxi 商业化等本周主线。
+- 更新 `daily/tech/README.md`，将 2026-09-07 科技趋势日报放入 Latest Reports 首位。
+- 完成 Dashboard 与 Topic 周度审计：`dashboards/index.md` 当前等级仍有效；本周长期知识更新仅保留 9 月 4 日已完成的 `topics/cybersecurity.md` 与趋势信号，不做重复扩写。
+
+## 2026-09-06
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-06.md`，覆盖印度 1GW AI 数据中心园区、鸿海 AI 服务器需求、AI/HBM 对消费级 DRAM 的挤出效应、中美 AI 安全对话增量核验及电力韧性治理。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
+## 2026-09-05
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-05.md`，覆盖 Agent 真实越界事件、中美 AI 安全对话筹备、Tesla Cybercab 商业载客与监管、深圳 AI 应用行动计划及智慧城市 AI 国际标准。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
+## 2026-09-04
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-04.md`，覆盖 GPT-6 Astra 有限部署、Daybreak 防守方优先、NVIDIA 收购 Hugging Face、K2 Horizon 完整开放模型及数据中心社会许可政治化。
+- 新增趋势信号：`daily/tech/trend-signals/2026-09-04.md`，判断高能力网络 AI 正形成“能力分级 + 可信准入 + 防守方优先”制度。
+- 更新 `topics/cybersecurity.md`，沉淀高能力网络 AI 的分级准入、运行控制与防守方优先长期框架；Dashboard 保持不变。
+- 更新 `daily/tech/README.md`。
+
+## 2026-09-03
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-03.md`，覆盖 Anthropic Fable/Mythos 分级开放、Google Fairwind、Broadcom 定制 AI 芯片收入、Vertiv 微电网并购及 AI 训练数据政策竞争。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
+## 2026-09-02
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-02.md`，覆盖 Astra 达到 Critical 网络安全能力阈值、CrowdStrike Agent 运行时安全、Ping 非人身份治理、Waymo 公众服务扩张及长期电力/容量合同。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
+## 2026-09-01
+
+- 新增科技趋势每日简报：`daily/tech/news-2026-09-01.md`，覆盖 VMware AgentMinder、FSB 将前沿 AI 网络风险提升至金融稳定议题、Anthropic 恢复外部复测、国产模型/芯片商业化及硅光与主权算力。
+- 更新 `daily/tech/README.md`；未调整 Dashboard、Topic 或独立趋势信号。
+
 ## 2026-08-31
 
 - 新增科技趋势每日简报：`daily/tech/news-2026-08-31.md`，覆盖全国智算规模与监测调度、江苏具身智能机器人消费补贴、Big Tech AI 股权重估收益与数据中心社会许可/融资风险。
